@@ -1,0 +1,28 @@
+.normal,
+.cool {
+    background-color: rgb(255, 167, 167);
+    color: black;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.normal{
+    font-size: 18px;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+.first-div {
+    color: blue;
+    font-size: 36px;
+}
+
+.second-div {
+    background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+
